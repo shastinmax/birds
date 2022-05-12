@@ -1,0 +1,14 @@
+.link {
+    font-weight: 700;
+}
+
+.active {
+    color: #03ccff;
+}
+
+.list {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}

@@ -1,0 +1,10 @@
+.wrapper {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+.headerLogo{
+    width: 300px;
+}
